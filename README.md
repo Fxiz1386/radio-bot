@@ -1,5 +1,5 @@
 # Set-up
-> `pip install -r requirements.txt --no-deps`
+> `pip install -r requirements.txt --no-deps` or `git clone https://github.com/Fxiz1386/radio-bot.git`
 
 # Requirements
 **Python3** (Recommended)
